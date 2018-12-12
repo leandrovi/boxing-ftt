@@ -1,0 +1,31 @@
+C:\Users\Leandro.Vieira\Documents\Personal\FTT\BoxingFTT\BoxingFTT\bin\Debug\BoxingFTT.exe.config
+C:\Users\Leandro.Vieira\Documents\Personal\FTT\BoxingFTT\BoxingFTT\bin\Debug\BoxingFTT.exe
+C:\Users\Leandro.Vieira\Documents\Personal\FTT\BoxingFTT\BoxingFTT\bin\Debug\BoxingFTT.pdb
+C:\Users\Leandro.Vieira\Documents\Personal\FTT\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Vieira\Documents\Personal\FTT\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.Form1.resources
+C:\Users\Leandro.Vieira\Documents\Personal\FTT\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.Properties.Resources.resources
+C:\Users\Leandro.Vieira\Documents\Personal\FTT\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.csproj.GenerateResource.Cache
+C:\Users\Leandro.Vieira\Documents\Personal\FTT\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.exe
+C:\Users\Leandro.Vieira\Documents\Personal\FTT\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.pdb
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\bin\Debug\BoxingFTT.exe.config
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\bin\Debug\BoxingFTT.exe
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\bin\Debug\BoxingFTT.pdb
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.csprojResolveAssemblyReference.cache
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.Form1.resources
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.Properties.Resources.resources
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.csproj.GenerateResource.Cache
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.csproj.CoreCompileInputs.cache
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.exe
+C:\Users\082170013\Documents\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.pdb
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\bin\Debug\BoxingFTT.exe.config
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\bin\Debug\BoxingFTT.exe
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\bin\Debug\BoxingFTT.pdb
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.csprojAssemblyReference.cache
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.Jogo.resources
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.MenuPrincipal.resources
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.Properties.Resources.resources
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.csproj.GenerateResource.cache
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.csproj.CoreCompileInputs.cache
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.exe
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.pdb
+E:\FTT\Algoritmos II\BoxingFTT\BoxingFTT\obj\Debug\BoxingFTT.Instrucoes.resources
